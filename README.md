@@ -1,2 +1,9 @@
 # NYC-Transportation-Study
-A study of the relationships between vehicle traffic, pedestrians, air pollution, and health effects in New York City. 
+     
+New York City is one of the most congested cities in the world, with traffic congestion significantly impacting healthcare, pollution, and urban transportation. This project aims to analyze the relationship between New York City's multimodal transportation system including vehicle traffic, public transit, biking, and pedestrians, and air pollution levels measured by Nitric Oxide (NO) and µg/m3 of fine particulate matter (PM2.5). Traffic-related emissions of NO and PM2.5 are among the most harmful air pollutants, contributing to approximately 2,000 deaths in NYC annually.
+
+It is also known that some regions of NYC experience higher concentrations of these particles from traffic than others, and high poverty neighborhoods tend to have increased hospitalizations due to air quality. Therefore, we want to shed light on how disparities in air pollution exposure correlate with asthma diagnoses and hospitalizations across different geographic areas of the city.
+
+Using diverse datasets including traffic counts, pedestrian activity, bicycle usage, bus routes, air pollution measurements, and asthma health records, we investigate how traffic density relates to air quality and health disparities in different NYC neighborhoods. Our analysis will employ spatial clustering, statistical modeling, and machine learning techniques to uncover patterns and predict the effects of potential public transit improvements.
+
+Key research questions include examining the correlation between traffic density and air pollution levels, comparing asthma cases in high and low traffic areas, exploring the relationship between vehicle traffic and alternative transportation modes, and assessing how public transit availability affects local air quality and health outcomes. Since relatively few studies cover such a wide variety of datasets within a particular city, we hope to contribute to research improving traffic management and mitigating health risks in affected communities.
